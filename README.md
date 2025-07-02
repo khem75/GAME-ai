@@ -1,5 +1,5 @@
 # 🧠 GAME-AI: A Python Chess Bot
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/khem75/GAME-ai)
+
 
 This repository contains a fully functional chess game built in Python, where you can play against an intelligent AI opponent. The AI is powered by the NegaMax algorithm, a variant of Minimax, enhanced with Alpha-Beta Pruning for efficient decision-making. The game features a complete graphical user interface using Pygame.
 
